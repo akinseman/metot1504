@@ -1,0 +1,10 @@
+C:\Users\PC0\source\repos\metotlarü\metotlarü\bin\Debug\metotlarü.exe.config
+C:\Users\PC0\source\repos\metotlarü\metotlarü\bin\Debug\metotlarü.exe
+C:\Users\PC0\source\repos\metotlarü\metotlarü\bin\Debug\metotlarü.pdb
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.csproj.AssemblyReference.cache
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.Form1.resources
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.Properties.Resources.resources
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.csproj.GenerateResource.cache
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.csproj.CoreCompileInputs.cache
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.exe
+C:\Users\PC0\source\repos\metotlarü\metotlarü\obj\Debug\metotlarü.pdb
